@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c6c8d40-03df-4190-a18a-a8c5a6357774" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>down</find>
+      <find>print</find>
+      <find>valid</find>
+      <find>dump</find>
+      <find>SHL</find>
+      <find>SHR</find>
+      <find>stop</find>
+      <find>&quot;I&quot;</find>
+      <find>dump()</find>
+      <find>keyDown</find>
+      <find>gamei</find>
+      <find>drawInfo</find>
+      <find>info</find>
+      <find>drawInf</find>
+      <find>ü</find>
+      <find>halt</find>
+      <find>starting</find>
+      <find>secretString</find>
+      <find>100,</find>
+      <find>pause</find>
+      <find>table</find>
+      <find>print(</find>
+      <find>got</find>
+      <find>flushSt</find>
+      <find>ScreenSe</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>stringAccu</replace>
+      <replace>0,</replace>
+      <replace>1,</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1bYNChQ9jmNmN4AH9vudVzqZ5qx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\states\emulator\assets\icons" />
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D" />
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\gamefiles" />
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\states\menu\assets\splashTexts" />
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\states\menu\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\states" />
+      <recent name="C:\Users\David Eckhardt\IdeaProjects\Chip8Love2D\states\menu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run My Emulator" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/love" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="Run My Emulator" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment4/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment6" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/Assignment7" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/assignment08/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/assignment09/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/assignment10/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/assignment11/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Assignments/assignment12/template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CPL-Excercise/Exercises/02" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c6c8d40-03df-4190-a18a-a8c5a6357774" name="Default Changelist" comment="" />
+      <created>1553711154550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553711154550</updated>
+      <workItem from="1553711157869" duration="2786000" />
+      <workItem from="1553713998830" duration="18451000" />
+      <workItem from="1553784033641" duration="14585000" />
+      <workItem from="1553866942476" duration="33685000" />
+      <workItem from="1554232351983" duration="59261000" />
+      <workItem from="1554373429059" duration="9836000" />
+      <workItem from="1554394907625" duration="32588000" />
+      <workItem from="1554452817275" duration="646000" />
+      <workItem from="1554476610854" duration="27721000" />
+      <workItem from="1554661743351" duration="3745000" />
+      <workItem from="1555080123243" duration="10347000" />
+      <workItem from="1588804944189" duration="30000" />
+      <workItem from="1588804992850" duration="2617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="209" width="572" height="614" key="#Run_My_Emulator" timestamp="1588804963715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="209" width="572" height="614" key="#Run_My_Emulator/0.0.1920.1040@0.0.1920.1040" timestamp="1588804963715" />
+    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588805056588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588805056588" />
+    <state width="1878" height="95" key="GridCell.Tab.0.bottom" timestamp="1588807610325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="95" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588807610325" />
+    <state width="1878" height="95" key="GridCell.Tab.0.center" timestamp="1588807610324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="95" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588807610324" />
+    <state width="1878" height="95" key="GridCell.Tab.0.left" timestamp="1588807610324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="95" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588807610324" />
+    <state width="1878" height="95" key="GridCell.Tab.0.right" timestamp="1588807610325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="95" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588807610325" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/states/menu/buttons/Credits.lua</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Lua 5.1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Chip8Love2D</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

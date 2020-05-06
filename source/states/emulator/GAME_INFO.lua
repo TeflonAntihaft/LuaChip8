@@ -1,0 +1,51 @@
+GAME_INFO = {}
+
+GAME_INFO.SPACE_INVADERS = { loadStore = false, shift = true, stepsPerCycle = 10, desc = "Space Invaders (1978), von David Winter \n\nDas altbekannte Spiel. Zerstoere die Invaders mit deinem Schiff bevor sie die Erde erreichen.\n\nSchiesse mit W, bewege dich mit Q und E. Druecke W um ein Spiel zu beginnen." }
+
+GAME_INFO.MAZE = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Maze (1992), von David Winter \n\nZeichnet ein zufaelliges Labyrinth aus diagonalen Linien auf den Bildschirm. Neu laden fuer ein neues Kunstwerk!" }
+
+GAME_INFO.RUSH_HOUR = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Rush Hour (2006), von Hap \nEine Version des Logikraetsels 'Rush Hour' von Nob Yoshigahara. Das Ziel ist es, die Bloecke (oder auch 'Autos') so zu verschieben, dass das Auto mit dem Pfeil aus dem Feld geschoben werden kann. Das Loesen von zehn Raetseln schaltet die naechsten Sets frei, so wie es die Verbindungen in der Levelauswahl anzeigen. Zusaetzlich wird ein Password bereitgestellt, so dass nicht alle Level auf einmal geloest werden muessen. Steuerung ueber WASD. Auswahl mit Y." }
+
+GAME_INFO.PONG = { loadStore = false, shift = false, stepsPerCycle = 7, desc = "Pong (1990), von Paul Vervalin \n\n\nWer hat Lust auf eine Runde Tennis? \nDiese Version ist fuer 2 Spieler gedacht, wobei ein Spieler mit 1 und Q und der andere mit 4 und R den Schlaeger steuert." }
+
+GAME_INFO.PONG2 = { loadStore = false, shift = false, stepsPerCycle = 7, desc = "Pong 2 (1997), von David Winter \n\n\nEine Version des Originals von Paul Vervalin, welche einige Probleme das Vorgaengers loest. \n\n Spieler Eins: 1 und Q. Spieler Zwei: 4 und R." }
+
+GAME_INFO.KALEIDOSCOPE = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Kaleidoscope (1978), von Joseph Weisbecker \n\nVier Punkte erscheinen in einer Gruppe in der Mitte des Bildschirms. Druecke 2, Q, E oder S um ein Muster zu gestalten. Halte dein Muster kleiner als 138 Eingaben! Mit X beendest du die Eingabe und kannst ab dann zusehen, wie ein faszinierendes, sich wandelndes Kaleidoskop aus deiner Eingabe erzeugt wird. \n\nTipp: Versuche 'QQQQQQQ222X'!" }
+
+GAME_INFO.BLITZ = { loadStore = false, shift = false, stepsPerCycle = 9, desc = "Blitz (1993), von David Winter \n\nEin BOMBER Klon fuer den Chip8. Du fliegst ein Flugzeug und musst die Hochhaeuser einer Stadt zerstoeren waerend dein Flugzeug auf den Boden zusteuert. \nNutzte W um Bomben abzuwerfen! \nDas Spiel endet wenn du in einen Turm krachst.." }
+
+GAME_INFO.BRIX = { loadStore = false, shift = false, stepsPerCycle = 8, desc = "Brix (1999), von Andres Gustafsson \n\n\nEin simpler Breakout Klon. Bewege das Paddel mit Q und E und zerstoere alle Steine! \n\nLass den Ball aber nicht ins Aus kommen denn du hast nur 4 Leben... " }
+
+GAME_INFO.GUESS = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Guess von David Winter \n\n Denk dir eine Nummer zwischen 1 und 63 aus. CHIP8 wird dir mehrere Bretter zeigen und du musst ihm antworten, ob deine gedachte Zahl dabei ist. \nDruecke W wenn sie dabei ist und eine beliebige Taste wenn nicht. \n\nCHIP8 wird nach wenigen Durchlaeufen deine Gedanken gelesen haben... " }
+
+GAME_INFO.HIDDEN = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Hidden (1996), von David Winter \n\nHidden ist ein einfaches Memory-Spiel mit einfachen Regeln: Finde alle Muster-Paar mit der kleinstmoeglichen Anzahl an Zuegen. \nBewege deinen Zeiger mit 2 (Hoch), S (Runter), Q (Links) und E (Rechts) und waehle eine Karte mit W aus. \nAm Ende bekommst du deinen Score und unter 'Hi' die bestmoegliche Punktzahl angezeigt.\n(Hinweis: Bekannt fuer ungewinnbare Spiele...)" }
+
+GAME_INFO.MERLIN = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Merlin von David Winter \n\nEin Merk-Spiel wie es in Deutschland als Senso bekannt und gefuerchtet ist. \nDie Vier Flaechen blinken in einer bestimmten Reihenfolge auf die vom Spieler wiederholt werden muss und die mit steigendem Level immer laenger werden. \nDie Tastenbelegung entspricht dem Layout der Anzeige mit QW (obere Reihe) und AS (untere Reihe).  " }
+
+GAME_INFO.MISSILE = { loadStore = false, shift = false, stepsPerCycle = 4, desc = "Missile von David Winter \n\nEinfacher Name, einfaches Prinzip! \n\nSchiess die Ziele mit deinem sich bewegenden Gewehr ab. Ziele aber gut den deine Munition ist begrenzt und die Bewegung wird mit jedem Schuss schneller! \n\n Zum Schiessen S feste abdruecken." }
+
+GAME_INFO.SUPERWORM = { loadStore = false, shift = false, stepsPerCycle = 5, desc = "Superworm V4 (2007), von Revival Studio \n\n Der Chip8-Port eines SuperChip8-Spieles welches wiederum ein Snake-Klon ist. Damit sollte ja eigentlich alles zum Spielprinzip gesagt sein, oder?  \n\nDie Schlange hoert auf 2 (Hoch), S (Runter), Q (Links) und E (Rechts). \n\nFriss Obst, werde Groesser, aber beiss dir nicht in den Schwanz!" }
+
+GAME_INFO.TANK = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Tank \n\nEines der originalen Chip8-Spiele. \nDu bist ein Panzer mit dem Ziel, mit deinen 25 Bomben moeglichst viele der mobilen Ziele zu treffen. Trifft das Ziel hingegen dich verlierst du 5 Bomben! \n\nDie Steuerung ist mit S (Hoch), 2 (Runter), Q (Links) und E (Rechts) aber aufgrund des damaligen Input-Layouts etwas gewoehnungsbeduerftig.." }
+
+GAME_INFO.PONG_1_PLAYER = { loadStore = false, shift = false, stepsPerCycle = 7, desc = "Pong (1 Spieler) \n\n\nWie Pong, nur das man diesmal keine Freunde braucht. Yay! \n\nBewege deinen Schlaeger mit 1 und Q und zeig es der A-mehr-oder-weniger-I!" }
+
+GAME_INFO.CAVE = { loadStore = false, shift = false, stepsPerCycle = 8, desc = "Cave (1994) \n\nFuehre den kleinen Punkt sicher durch das Hoehlen-Labyrinth und sorg dafuer, dass er nirgendwo aneckt. \n\nHalte ihn mit 2, S (Hoch-Runter) und Q, E (Rechts-Links) unter Kontrolle. \nWenn du die Wand streifst musst du leider V druecken und von vorne anfangen... " }
+
+GAME_INFO.TETRIS = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Tetris (1991), von Fran Dachille \n\n Das meistverkaufte Videospiel aller Zeiten: Jetzt auch auf ihrem Emulator! Bilde Reihen in dem du die fallenden Puzzelteile an der richtigen Stelle aufschlagen laesst. \nBewege die fallenden Teile mit W und E, drehe sie mit Q un beschleunige ihren Absturz mit A." }
+
+GAME_INFO.VERS = { loadStore = false, shift = false, stepsPerCycle = 6, desc = "Vers (1991), von JMN \n\nEine 2-Spieler-Variante des 1982er Hit's Tron fuer die Midway Arcade Machines. \nEs gewinnt die Runde der Spieler, der am laengsten im Feld bleibt, ohne gegen eine Lichtspur oder die Wand zu fahren und das Spiel, wer als erster 8 Punkte erreicht. \n\nSpieler Eins benutzt 1, 2 (Rechts-Links) und A, Y (Hoch-Runter) waehrend Spieler Zwei 4, R und C, V verwendet.  " }
+
+GAME_INFO.BLINKY = { loadStore = true, shift = true, stepsPerCycle = 12, desc = "Blinky (1991), von Hans Christian Egberger \n\nEin PacMan-Klon fuer den Chip8. \nAls Blinky wirst du von deinen beiden Bossen Packlett und Heward durch das Buero verfolgt, immer deiner in den Korridoren verstreuten Arbeit hinterher. Lass dich ja nicht erwischen und denk an den geheimen Ausgang an den Seiten! \nMit 3 und E gehts hoch/runter, mit A und S nach rechts und links und 1 gibt dir eine Verschnaufpause." }
+
+GAME_INFO.AIRPLANE = { loadStore = false, shift = false, stepsPerCycle = 6, desc = "Airplane \n\nEin Spiel aehnlich zu BOMBER. Wirf mit S Bomben ab um das Flachland unter dir noch flacher zu machen. \nGibt aber Acht nicht deine Kameraden zu treffen, die im Tiefflug unter dir hinwegsausen. \n\nDas Spiel endet wenn der Kommandatur noch 3 Faellen von Team-Treffern die Ersatzflieger ausgehen." }
+
+GAME_INFO.MOST_DANGEROUS_GAME = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Most Dangerous Game, von Peter Maruhnic \n\n Eine froehliche Kopfjagd fuer 2 Spieler. \nDer linke Spieler spielt den Gejagten der entweder aus dem Labyrinth entkommen muss oder zumindest hofft, nicht vom Jaeger gefunden zu werden. Dessen Ziel ist es wiederum natuerlich den Gejagten zu erwischen. \nEines bleibt aber: Keiner der beiden kann Waende sehen ohne in sie hinein zu rennen! \nSteuerung: 2QES mit Abwechseln. " }
+
+GAME_INFO.SPACE_INTERCEPT = { loadStore = false, shift = false, stepsPerCycle = 7, desc = "Space Intercepter (1978), von Joseph Weisbecker \n\n Verteidige die Erde mit deinen Raketen gegen die Aliens! \nWahle am Anfang ob du '1' das grosse UFO abschiessen moechtest, welches 5 Punkte pro Treffer gibt oder lieber mit '2' das Kleiner, welches dafuer aber 15 Punkte gibt. \n\nSchiesse mit Q, W oder E und kloppt die Aliens zurueck nach Alpha Centauri!" }
+
+GAME_INFO.NONE = { loadStore = false, shift = false, stepsPerCycle = 7, desc = "Chip8-Emulator von David Eckhardt \n\n Willkommen im Hauptbildschirm des Emulators!\nNeben dem nicht uebersehbaren Bilschirm in der Mitte befindet sich die Auswahl der aktuell installierten Spiele. \nZum Laden eines Spieles den entsprechenden Namen einfach anklicken. Ein Klick in den Bildschirm verbirgt den Mauszeiger und fokussiert das Spiel. Das Loesen des Fokus durch bewegen der Maus pausiert das aktuelle Spiel. \nTipp: Mit 'I' gibt es immer nuetzliche Infos so wie diese! \n\nViel Spass! :-)" }
+
+GAME_INFO.PUZZLE = { loadStore = false, shift = false, stepsPerCycle = 10, desc = "Puzzle \n\nEines der originalen Chip8-Spiele und ein simples Schiebepuzzle. Sortiere die Steine zurueck in die Ordung 1 - F in dem du Steine in die Luecke schiebst.\n\nDie Steuerung ist die alte Chip8-Steuerung in der Hoch und Runter vertauscht sind und ist aus Sicht der Luecke formuliert: \nQ (Links), E (Rechts), S (Hoch) und 2 (Runter)" }
+
+GAME_INFO.NIM = {loadStore = false, shift = false, stepsPerCycle = 12, desc = "Nim (1978), von Carmelo Cortez \n\nEin eher grafisch unspektakulaeres Logik-Spiel und eine Umsetzung eines 'Single line'-Nim-Spiels (auch bekannt als Subtraktions-Spiel). \n Spieler und Computer subtrahieren abwechselnd 1 bis 3 von der gezeigten Zahl. Wer die letzte Zahl nimmt verliert. \n\nDie Spieleihenfolge wird vor dem Start festgelegt: Mit V beginnt der Spieler, mit allem anderen der Computer. \n\nKnackst du die perfekte Siegstrategie? \n"}
