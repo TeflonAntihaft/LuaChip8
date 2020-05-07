@@ -15,7 +15,7 @@ More about ths topic can be found under "Getting Started" at the love2d wiki [ht
 Missing Features
 ----------------
 
-This emulator is on it's own more or less finished. But there is always room for more features! 
+This emulator is on its own more or less finished. But there is always room for more features! 
 Some new features could be:
 
 - Figuring out why 'Rush Hour' always breaks mid-way
